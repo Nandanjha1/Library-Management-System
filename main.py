@@ -31,7 +31,7 @@ class Student:
          
 
 if __name__ == "__main__":
-    centraLibrary = Library(["ADBMS", "HTML", "CSS", "Python"])
+    centraLibrary = Library(["ADBMS", "HTML", "CSS", "Python", "JavaScript"])
     student = Student()
     # centraLibrary.displayAvailableBooks()
     while(True):
